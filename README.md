@@ -164,7 +164,7 @@ Classic memory game built with vanilla JS, sound & sequence logic.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Rajpoot&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Rajpoot&row=1&column=6"/>
 </p>
 
 <br/>
