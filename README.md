@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Aditya "Adii" Rajpoot
+name: Aditya Rajpoot
 education: B.Tech, Computer Science Engineering (2023 - 2027)
 current_focus: [React.js, MERN Stack, DSA]
 looking_for: Software Development Internship
