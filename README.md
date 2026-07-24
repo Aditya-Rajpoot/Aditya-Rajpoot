@@ -1,197 +1,188 @@
-<h1 align="center">Hi 👋, I'm Aditya Rajpoot</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • Java Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8E2DE2&height=200&section=header&text=Aditya%20Rajpoot&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+DSA+Enthusiast;MERN+Stack+Learner;Building+Real-World+Projects;Open+to+Internships+%F0%9F%9A%80"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aditya-Rajpoot&style=for-the-badge&color=00C2FF" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Aditya-Rajpoot?style=for-the-badge&color=8E2DE2&logo=github" alt="followers"/>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Aditya "Adii" Rajpoot
+education: B.Tech, Computer Science Engineering (2023 - 2027)
+current_focus: [React.js, MERN Stack, DSA]
+looking_for: Software Development Internship
+fun_fact: I turn ideas into full-stack apps, one commit at a time
+```
+
+- 🎓 CSE student building a strong foundation in **DSA + OOP**
+- 💻 Full Stack Developer — comfortable across **Java** and the **MERN stack**
+- 🌱 Currently leveling up **React.js**
+- 🎯 Actively looking for **Software Development Internships**
+- ⚡ Fun fact: I care way too much about making my code *and* my profile look clean
+
+<br/>
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Learner;DSA+Enthusiast;Open+to+Internships"/>
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-Rajpoot&style=for-the-badge">
-
-</p>
-
----
-
-# 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering (2023-2027)
-- 💻 Passionate Full Stack Web Developer
-- 🌱 Currently Learning **React & MERN Stack**
-- 💡 Love building real-world projects
-- 🎯 Looking for Software Development Internship
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
 <a href="https://linkedin.com/in/aditya-rajpoot-659311325">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:adityarajpoot1506@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://github.com/Aditya-Rajpoot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
----
+<br/>
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql">
-</p>
+**Languages**
 
-### Frontend
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-</p>
+**Frontend**
 
-### Backend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express">
-</p>
+**Backend**
 
-### Database
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb">
-</p>
+**Database**
 
-### Tools
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary">
-  <img src="https://img.shields.io/badge/Mapbox-black?style=for-the-badge&logo=mapbox">
-</p>
+**Tools & Platforms**
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
 
-# 🚀 Featured Projects
+</div>
 
-<table>
+<br/>
 
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🏡 WanderLust
+Full-stack Airbnb-style travel listing app with auth, image uploads & map integration.
 
-## 🏡 WanderLust
-
-Full Stack Airbnb Clone
-
-Node • Express • MongoDB • Passport • Cloudinary • Mapbox
+`Node.js` `Express` `MongoDB` `Passport.js` `Cloudinary` `Mapbox`
 
 <a href="https://github.com/Aditya-Rajpoot/Wanderlust">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ✍️ Quora Posts
+RESTful CRUD application for creating, editing and managing posts.
 
-## ✍️ Quora Posts
-
-RESTful CRUD Application
-
-Node • Express • EJS
+`Node.js` `Express` `EJS`
 
 <a href="https://github.com/Aditya-Rajpoot/Quora_Post">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🚗 Self-Driving Car Simulation
+Neural network-powered car simulation trained via mutation & fitness scoring.
 
-## 🚗 Self Driving Car
-
-Neural Network Simulation
-
-JavaScript • AI
+`JavaScript` `Neural Networks` `AI`
 
 <a href="https://github.com/Aditya-Rajpoot/Self-Driving-Car">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎮 Simon Says Game
+Classic memory game built with vanilla JS, sound & sequence logic.
 
-## 🎮 Simon Says Game
-
-Memory Game
-
-HTML • CSS • JavaScript
+`HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/Aditya-Rajpoot/Simon-Says-Game">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
 </tr>
-
 </table>
 
----
+<br/>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajpoot&theme=tokyonight"/>
-
-</p>
-
-
----
-
-
-# 📈 Contribution Graph
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajpoot&theme=tokyo-night"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajpoot&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 </p>
-
----
-
-# 🎯 Current Focus
-
-- 🚀 MERN Stack
-- ⚛️ React.js
-- 📚 DSA
-- 💼 Software Development Internship
-- 🌍 Open Source
-
----
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajpoot&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajpoot&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Rajpoot&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<br/>
+
+## 🎯 Currently Focused On
+
+<img src="https://img.shields.io/badge/-MERN%20Stack-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-React.js-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/-DSA-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Open%20Source-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Internship%20Ready-00C2FF?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00C2FF&height=100&section=footer" width="100%"/>
+
+<div align="center">
+
+**⭐ Thanks for stopping by — let's build something great!**
+
+</div>
