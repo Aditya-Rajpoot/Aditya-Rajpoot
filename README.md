@@ -147,7 +147,10 @@ Classic memory game built with vanilla JS, sound & sequence logic.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true" width="90%"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajpoot&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 </p>
 
 <p align="center">
