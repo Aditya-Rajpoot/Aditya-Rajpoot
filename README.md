@@ -147,7 +147,7 @@ Classic memory game built with vanilla JS, sound & sequence logic.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajpoot&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true" width="90%"/>
 </p>
 
 <p align="center">
