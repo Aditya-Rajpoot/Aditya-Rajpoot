@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8E2DE2&height=200&section=header&text=Aditya%20Rajpoot&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Aditya Rajpoot 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%7C+WebRTC+%7C+Real-Time+Apps;75%2B+LeetCode+Problems+Solved;Building+%26+Deploying+Real-World+Projects;Open+to+Internships+%F0%9F%9A%80"/>
-
-<br/>
+### Full Stack Developer | CSE (AI & ML) | MERN Stack
 
 <img src="https://komarev.com/ghpvc/?username=Aditya-Rajpoot&style=for-the-badge&color=00C2FF" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/Aditya-Rajpoot?style=for-the-badge&color=8E2DE2&logo=github" alt="followers"/>
+
+🚀 **Open to Software Development Internships**
 
 </div>
 
@@ -235,10 +235,6 @@ RESTful CRUD application for creating, editing and managing posts.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajpoot&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajpoot&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
 <br/>
 
 ## 📜 Certifications
@@ -258,9 +254,9 @@ RESTful CRUD application for creating, editing and managing posts.
 <img src="https://img.shields.io/badge/-System%20Design-00C2FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Internship%20Ready-8E2DE2?style=flat-square"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00C2FF&height=100&section=footer" width="100%"/>
+---
 
 <div align="center">
 
