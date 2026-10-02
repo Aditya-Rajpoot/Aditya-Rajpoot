@@ -13,7 +13,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
 ```yaml
 name: Aditya Rajpoot
@@ -228,10 +228,15 @@ RESTful CRUD application for creating, editing and managing posts.
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajpoot&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajpoot&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajpoot&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 <br/>
